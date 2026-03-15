@@ -1,0 +1,9 @@
+id=LiteBlur
+name=LiteBlur-HyperOS2
+version=V2.4
+versionCode=2004
+author=Fakh
+description=Release blur on HyperOS 2 but LIGHTER! (some features are disabled so that's why it's lighter) ported from garnet
+updateJson=https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/update.json
+banner=https://raw.githubusercontent.com/fakerieh/Control-Center-Blur-for-emerald-HyperOS2-Light-Version/refs/heads/main/banner/IMG_20250623_174305.jpg
+support=https://t.me/EmeraldDiscuss
